@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Personal Assistant</string>
+    <string name="timeLabel">Time</string>
+    <string name="workLabel">Work</string>
+    <string name="destinationLabel">Destination</string>
+    <string name="reminderLabel">Remind</string>
+    <string name="noneButtonRadio">None</string>
+    <string name="fiveRadioButton">before 5 minutes</string>
+    <string name="thirtyRadioButton">before 30 minutes</string>
+    <string name="sixtyRadioButton">before 60 minutes</string>
+    <string name="btnFinishLabel">Finish</string>
+    <string name="hintEditText">abcxyz</string>
+    <string name="hintEditLAbel">abcxyz</string>
+    <string name="timeDefault">0:00</string>
+    <string name="channelTitleDes">Works of Today</string>
+    <string name="January">January</string>
+    <string name="February">February</string>
+    <string name="March">March</string>
+    <string name="April">April</string>
+    <string name="May">May</string>
+    <string name="June">June</string>
+    <string name="July">July</string>
+    <string name="August">August</string>
+    <string name="Septemper">September</string>
+    <string name="October">October</string>
+    <string name="November">November</string>
+    <string name="December">December</string>
+</resources>

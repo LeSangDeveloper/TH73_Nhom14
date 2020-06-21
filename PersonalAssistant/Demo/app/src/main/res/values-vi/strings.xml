@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trợ lý cá nhân</string>
+    <string name="timeLabel">Thời gian</string>
+    <string name="workLabel">Công việc</string>
+    <string name="destinationLabel">Địa điểm</string>
+    <string name="reminderLabel">Lời nhắc</string>
+    <string name="noneButtonRadio">Không cần thông báo!</string>
+    <string name="fiveRadioButton">Trước 5 phút</string>
+    <string name="thirtyRadioButton">Trước 30 phút</string>
+    <string name="sixtyRadioButton">Trước 60 phút</string>
+    <string name="btnFinishLabel">Hoàn thành</string>
+    <string name="hintEditText">abcxyz</string>
+    <string name="hintEditLAbel">abcxyz</string>
+    <string name="timeDefault">0:00</string>
+    <string name="channelTitleDes">Works of Today</string>
+    <string name="January">tháng 1</string>
+    <string name="February">tháng 2</string>
+    <string name="March">tháng 3</string>
+    <string name="April">tháng 4</string>
+    <string name="May">tháng 5</string>
+    <string name="June">tháng 6</string>
+    <string name="July">tháng 7</string>
+    <string name="August">tháng 8</string>
+    <string name="Septemper">tháng 9</string>
+    <string name="October">tháng 10</string>
+    <string name="November">tháng 11</string>
+    <string name="December">tháng 12</string>
+
+</resources>
